@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Nanum+Myeongjo:wght@400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: #faf7f4;
+  font-family: 'Gowun Dodum', sans-serif;
+  color: #3d2e22;
+  -webkit-tap-highlight-color: transparent;
+}
